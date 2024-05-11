@@ -14,39 +14,29 @@ Catch me on,
 [![Gmail Badge](https://img.shields.io/badge/-shiyaniparth276@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shiyaniparth276@gmail.com)](mailto:shiyaniparth276@gmail.com)
 
 Welcome to my corner of the digital realm! 🌟
-As a passionate front-end developer and a staunch advocate for pixel-perfect designs, I'm on a mission to transform ideas into captivating web experiences. With a brush of creativity and a palette of HTML, CSS, and JavaScript, I strive to craft immersive user interfaces that tell compelling stories. I thrive on solving complex front-end challenges and turning them into elegant solutions. Whether it's optimizing performance, enhancing user interfaces, or creating responsive designs, I'm always up for the task.
+
+I am a dedicated Full Stack Developer with a strong command of diverse technologies, enabling me to create cutting-edge web applications and solutions. My skill set encompasses Node.js, Next.js, React.js, Express.js, and OAuth 2.0, providing a robust foundation for delivering exceptional software products.
+
+My expertise extends to advanced techniques in Server-Side Rendering (SSR), ensuring lightning-fast user experiences, as well as optimizing APIs to gracefully handle peak loads.
+
+I'm passionate about exploring emerging technologies and frameworks, continuously expanding my toolkit to stay at the forefront of software development trends. My insatiable curiosity empowers me to tackle complex challenges, and I thrive in dynamic, collaborative environments that foster innovation and excellence.
 
 <br/>
 
 🚀 What I Love:
 
-- Building stunning and responsive websites
-- Solving complex UI/UX puzzles
+- Building microservices and Sass Projects
 - Collaborating on innovative projects
 - Embracing new technologies to stay at the cutting edge
-- oh! and I love Valorant
 
 <br/>
   
 💻 My Toolbox:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
