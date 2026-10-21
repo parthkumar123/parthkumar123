@@ -1,78 +1,75 @@
-## Hey there, I'm Parth! 👋
+<div align="center">
 
-#### Glad to see you here
+# Hi, I'm Parth Shiyani 👋
 
-<p align="left">Now I have
-  
-  <img src="https://komarev.com/ghpvc/?username=parthkumar123" alt="parthkumar123" /> </p>
+**Senior Full Stack Software Engineer**
+Enterprise AI Platforms · Scalable SaaS Architecture · System Design · Security & Compliance
 
-<img align="right" src="https://github.com/parthkumar123/parthkumar123/blob/main/github.gif?raw=true" style="max-width: 100%; display: inline-block;" width='400' >
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parthkumar_Shiyani-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthkumar-shiyani/)
+[![X](https://img.shields.io/badge/X-@shiyaniparth276-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/shiyaniparth276)
+[![Email](https://img.shields.io/badge/Email-shiyaniparth276@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shiyaniparth276@gmail.com)
+[![Location](https://img.shields.io/badge/Ahmedabad,_India-grey?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
-Catch me on,
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthkumar-shiyani/)](https://www.linkedin.com/in/parthkumar-shiyani/)
-[![Gmail Badge](https://img.shields.io/badge/-shiyaniparth276@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shiyaniparth276@gmail.com)](mailto:shiyaniparth276@gmail.com)
+---
 
-Welcome to my corner of the digital realm! 🌟
+## About me
 
-I am a dedicated Full Stack Developer with a strong command of diverse technologies, enabling me to create cutting-edge web applications and solutions. My skill set encompasses Node.js, Next.js, React.js, Express.js, and OAuth 2.0, providing a robust foundation for delivering exceptional software products.
+I design and build backend-heavy SaaS products end to end: the API layer, the data model, the auth and compliance story, and the React/Next.js front end that sits on top. Lately most of my work has been on **enterprise AI platforms**, wiring LLM workflows into real business systems with the guardrails, audit trails, and access controls that enterprise customers actually require.
 
-My expertise extends to advanced techniques in Server-Side Rendering (SSR), ensuring lightning-fast user experiences, as well as optimizing APIs to gracefully handle peak loads.
+- 🏗️ **Architecture first.** Multi-tenant SaaS, microservices, event-driven pipelines, and the trade-offs between them.
+- 🤖 **AI in production.** RAG pipelines, agent workflows, and model orchestration that survive contact with real data.
+- 🔐 **Security & compliance.** OAuth 2.0 / OIDC, RBAC, secrets management, and audit-ready logging baked in from day one.
+- ⚡ **Performance.** SSR, caching strategies, query tuning, and load-testing APIs before peak traffic finds the gaps.
+- 🧩 **Deep library work.** Comfortable patching, forking, or extending third-party libraries when the off-the-shelf path runs out.
 
-I'm passionate about exploring emerging technologies and frameworks, continuously expanding my toolkit to stay at the forefront of software development trends. My insatiable curiosity empowers me to tackle complex challenges, and I thrive in dynamic, collaborative environments that foster innovation and excellence.
+---
 
-<br/>
+## Tech stack
 
-🚀 What I Love:
+| | |
+|---|---|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-0096D6?style=flat-square&logo=fastapi&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **AI / LLM** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Vector DBs](https://img.shields.io/badge/Vector_DBs-FF6F00?style=flat-square&logo=databricks&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Auth & Security** | ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![OIDC](https://img.shields.io/badge/OIDC-F78C40?style=flat-square&logo=openid&logoColor=white) |
+| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
-- Building microservices and Sass Projects
-- Collaborating on innovative projects
-- Embracing new technologies to stay at the cutting edge
+---
 
-<br/>
-  
-💻 My Toolbox:
+## What I'm focused on
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- Shipping LLM-powered features that are observable, cost-controlled, and safe to put in front of enterprise users
+- Multi-tenant SaaS architecture: tenancy boundaries, data isolation, and per-tenant configuration at scale
+- Hardening APIs for compliance workloads: audit logging, PII handling, rate limiting, and least-privilege access
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+---
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## GitHub activity
 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<div align="center">
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<a href="https://github.com/parthkumar123">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parthkumar123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Parth's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkumar123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+</a>
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parthkumar123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-<br/>
-  
-👾 SuperPowers:
-
-- Able to modify any library
-- Build whatever you think into backend development
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=parthkumar123&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
-    </a>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" align="center" />
+<div align="center">
 
-Let's collaborate and elevate your web projects to the next level! Connect with me, and together, we can build remarkable digital experiences. 🌐✨
+**Open to interesting backend, platform, and AI infrastructure problems.**
+Reach out on [LinkedIn](https://www.linkedin.com/in/parthkumar-shiyani/) or [email](mailto:shiyaniparth276@gmail.com).
+
+</div>
